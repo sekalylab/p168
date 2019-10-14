@@ -1,11 +1,11 @@
 # P168: source code
   
 ## List of figures:  
-[Fig. 1e](#fig-1e)  
+[Fig. 2c](#fig-2c)  
 
-### Fig. 1e
-![Fig. 1e](figure/fig1e-1.png)  
-Fig. 1e: [R code [MD]](code/20190814_P168.fig1e.md), [Input file [CSV]](input/p168.vl.csv)  
+### Fig. 2c
+![Fig. 2c](figure/fig2c.png)  
+Fig. 2c: [R code [MD]](code/)  
 
 ## Supplemental material:  
   

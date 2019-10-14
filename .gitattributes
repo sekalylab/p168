@@ -1,3 +1,4 @@
 input/p168.GA_Agilent_one_color_matrix.Matrix_background.csv filter=lfs diff=lfs merge=lfs -text
 input/p168.GA_Agilent_one_color_matrix.Matrix_non-normalized.csv filter=lfs diff=lfs merge=lfs -text
 input/p168.featAnnatation.csv filter=lfs diff=lfs merge=lfs -text
+*.RData filter=lfs diff=lfs merge=lfs -text
