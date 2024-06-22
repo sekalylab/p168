@@ -1,0 +1,5 @@
+input/p168.GA_Agilent_one_color_matrix.Matrix_background.csv
+input/p168.GA_Agilent_one_color_matrix.Matrix_non-normalized.csv
+output/p168.elist.RData
+output/p168.elistBaselined.RData
+output/p168.elistRaw.RData
